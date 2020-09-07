@@ -1,13 +1,14 @@
 {
   "index_name": "boxhero",
   "start_urls": [
-    "https://docs-en.boxhero.io/docs/",
-    "https://docs-en.boxhero.io/docs/en-home.html",
-    "https://docs-ko.boxhero.io/docs/",
-    "https://docs-ko.boxhero.io/docs/ko-home.html"
+    "https://docs-en.boxhero-app.com/docs/",
+    "https://docs-en.boxhero-app.com/docs/en-home.html",
+    "https://docs-ko.boxhero-app.com/docs/",
+    "https://docs-ko.boxhero-app.com/docs/getting-started"
   ],
   "sitemap_urls": [
-    "https://docs-en.boxhero.io/sitemap.xml"
+    "https://docs-en.boxhero-app.com/sitemap.xml",
+    "https://docs-ko.boxhero-app.com/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [],
